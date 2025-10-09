@@ -35,7 +35,7 @@
 </div>
 
 <!-- 添加一个示意图 -->
-<img width="600" alt="UNCLE Overview" src="./figures/uncle_overview.png" style="display: block; margin: 0 auto;">
+<img width="600" alt="UNCLE Overview" src="./uncle.png" style="display: block; margin: 0 auto;">
 
 </div>
 
@@ -47,14 +47,14 @@ Large Language Models (LLMs) are prone to **hallucination**, particularly in lon
 
 **UNCLE (UNCertainty in Long-form Expressions)** is the first benchmark designed to comprehensively evaluate uncertainty expression in both **long-form and short-form** question answering (QA). 
 
-### 🎯 Key Features
+### Key Features
 
-- ✅ **5 Domains**: Biographies, Companies, Movies, Astronomical Objects, Diseases
-- ✅ **1,066 Entities**: Each with multiple key aspects
-- ✅ **Paired QA**: Direct link between short- and long-form questions
-- ✅ **Gold Standard Answers**: For all key aspects
-- ✅ **Novel Metrics**: FA, UA, KCR, UUR, EA for comprehensive evaluation
-- ✅ **Alignment Analysis**: First to examine consistency between short- and long-form uncertainty
+- **5 Domains**: Biographies, Companies, Movies, Astronomical Objects, Diseases
+- **1,066 Entities**: Each with multiple key aspects
+- **Paired QA**: Direct link between short- and long-form questions
+- **Gold Standard Answers**: For all key aspects
+- **Novel Metrics**: FA, UA, KCR, UUR, EA for comprehensive evaluation
+- **Alignment Analysis**: First to examine consistency between short- and long-form uncertainty
 
 <div align="center">
 <img width="750" alt="Evaluation Pipeline" src="./figures/evaluation_pipeline.png">
@@ -86,7 +86,3 @@ Each sample contains:
   - `description` (string): Aspect description
   - `label` (string): Aspect category
 - `domain` (string): Domain category (bios/companies/movies/planets/diseases)
-
-### Question Types
-
-**Long-form QA:**
