@@ -3,14 +3,13 @@
 <div>
   <a href='https://scholar.google.com/citations?user=asTSVwQAAAAJ&hl=en' target='_blank'><b>Ruihan Yang</b></a><sup>1*</sup>&emsp;
   <a href='https://caiqizh.github.io/' target='_blank'><b>Caiqi Zhang</b></a><sup>2*</sup>&emsp;
-  <a href='https://scholar.google.co.jp/citations?user=373vlUEAAAAJ&hl=en' target='_blank'><b>Zhisong Zhang</b></a><sup>4</sup>&emsp;
+  <a href='https://scholar.google.co.jp/citations?user=373vlUEAAAAJ&hl=en' target='_blank'><b>Zhisong Zhang</b></a><sup>3</sup>&emsp;
 </div>
 
 <div>
 <sup>1</sup>Fudan University&emsp;
 <sup>2</sup>University of Cambridge&emsp;
-<sup>3</sup>Tencent AI Lab&emsp;
-<sup>4</sup>City University of Hong Kong
+<sup>3</sup>City University of Hong Kong
 </div>
 
 <div>
