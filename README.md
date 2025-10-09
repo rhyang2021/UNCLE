@@ -34,7 +34,7 @@ Large Language Models (LLMs) are prone to **hallucination**, particularly in lon
 
 **UNCLE (UNCertainty in Long-form Expressions)** is the first benchmark designed to comprehensively evaluate uncertainty expression in both **long-form and short-form** question answering (QA). 
 
-### Key Features
+#### Key Features
 
 - **5 Domains**: Biographies, Companies, Movies, Astronomical Objects, Diseases
 - **1,066 Entities**: Each with multiple key aspects
@@ -54,7 +54,7 @@ Large Language Models (LLMs) are prone to **hallucination**, particularly in lon
 
 ### Domain Coverage
 
-| Domain | # Entities | Example Entities | Key Aspects |
+| Domain | Entities | Example Entities | Key Aspects |
 |--------|-----------|------------------|-------------|
 | **Biographies** | 319 | Jackie Chan, Eminem, Steve Jobs | birthdate, place of birth, citizenship, language... |
 | **Companies** | 264 | Amazon, JP Morgan, Mars Inc. | establishment date, founders, CEO, location... |
