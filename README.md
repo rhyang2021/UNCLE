@@ -27,8 +27,6 @@
 <img src="https://img.shields.io/github/stars/rhyang2021/UNCLE?color=yellow" alt="Stars">
 <img src="https://img.shields.io/github/issues/rhyang2021/UNCLE?color=red" alt="Issues">
 
-</h4>
-
 ---
 
 ## Introduction
@@ -47,13 +45,13 @@ Large Language Models (LLMs) are prone to **hallucination**, particularly in lon
 - **Alignment Analysis**: First to examine consistency between short- and long-form uncertainty
 
 <div align="center">
-<img width="850" alt="Evaluation Pipeline" src="./uncle.png">
+<img width="900" alt="Evaluation Pipeline" src="./uncle.png">
 <p><i>Figure: UNCLE evaluation pipeline with known/unknown detection, generation, and fact-checking</i></p>
 </div>
 
 ---
 
-## 🗂️ Dataset Structure
+## Dataset Structure
 
 ### Domain Coverage
 
