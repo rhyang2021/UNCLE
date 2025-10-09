@@ -35,7 +35,7 @@
 </div>
 
 <!-- 添加一个示意图 -->
-<img width="600" alt="UNCLE Overview" src="./uncle.png" style="display: block; margin: 0 auto;">
+<img width="800" alt="UNCLE Overview" src="./uncle.png" style="display: block; margin: 0 auto;">
 
 </div>
 
