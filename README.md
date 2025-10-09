@@ -28,12 +28,6 @@
 <img src="https://img.shields.io/github/issues/rhyang2021/UNCLE?color=red" alt="Issues">
 
 </h4>
-</div>
-
-<!-- 添加一个示意图 -->
-<img width="850" alt="UNCLE Overview" src="./uncle.png" style="display: block; margin: 0 auto;">
-
-</div>
 
 ---
 
@@ -53,7 +47,7 @@ Large Language Models (LLMs) are prone to **hallucination**, particularly in lon
 - **Alignment Analysis**: First to examine consistency between short- and long-form uncertainty
 
 <div align="center">
-<img width="750" alt="Evaluation Pipeline" src="./figures/evaluation_pipeline.png">
+<img width="850" alt="Evaluation Pipeline" src="./uncle.png">
 <p><i>Figure: UNCLE evaluation pipeline with known/unknown detection, generation, and fact-checking</i></p>
 </div>
 
