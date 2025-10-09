@@ -19,7 +19,7 @@
 <div>
 <h4>
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.20258-b31b1b.svg)](https://arxiv.org/pdf/2505.16922))
+[![arXiv](https://img.shields.io/badge/arXiv-2505.20258-b31b1b.svg)](https://arxiv.org/pdf/2505.16922)
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-UNCLE-yellow)](https://huggingface.co/datasets/rhyang2021/UNCLE)
 ![](https://img.shields.io/badge/PRs-welcome-brightgreen) 
 <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version">
