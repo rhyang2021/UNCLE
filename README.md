@@ -4,10 +4,6 @@
   <a href='https://scholar.google.com/citations?user=asTSVwQAAAAJ&hl=en' target='_blank'><b>Ruihan Yang</b></a><sup>1*</sup>&emsp;
   <a href='https://caiqizh.github.io/' target='_blank'><b>Caiqi Zhang</b></a><sup>2*</sup>&emsp;
   <a href='https://scholar.google.co.jp/citations?user=373vlUEAAAAJ&hl=en' target='_blank'><b>Zhisong Zhang</b></a><sup>4</sup>&emsp;
-  <b>Xinting Huang</b><sup>3</sup>&emsp;
-  <b>Dong Yu</b><sup>3</sup>&emsp;
-  <a href='https://sites.google.com/site/nhcollier/' target='_blank'><b>Nigel Collier</b></a><sup>2</sup>&emsp;
-  <a href='https://yangdeqing.github.io/' target='_blank'><b>Deqing Yang</b></a><sup>1</sup>
 </div>
 
 <div>
@@ -35,13 +31,13 @@
 </div>
 
 <!-- 添加一个示意图 -->
-<img width="800" alt="UNCLE Overview" src="./uncle.png" style="display: block; margin: 0 auto;">
+<img width="850" alt="UNCLE Overview" src="./uncle.png" style="display: block; margin: 0 auto;">
 
 </div>
 
 ---
 
-## 📋 Introduction
+## Introduction
 
 Large Language Models (LLMs) are prone to **hallucination**, particularly in long-form generation. A promising direction to mitigate this is to teach LLMs to **express uncertainty explicitly** when they lack sufficient knowledge. However, existing work lacks direct and fair evaluation of LLMs' ability to express uncertainty effectively in long-form generation.
 
